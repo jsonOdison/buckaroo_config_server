@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to buckaroo accounts related prod APIs "
   contactDetails:
-    name: "Ichimichi - Product Owner"
+    name: "Jason khongwir > SAKAI - Product Owner"
     email: "jasonkk@buckaroo.com"
   onCallSupport:
     - (453) 392-23
