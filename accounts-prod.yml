@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to buckaroo accounts related prod APIs "
   contactDetails:
-    name: "Jin Sakai - Product Owner"
+    name: "JIN Sakai - Product Owner"
     email: "{cipher}98584bcb51b78aee4636bf5b6554f36e8f5738a55b6222393ba58f4dff0bd866dcb52fd28c28d925029035b2d076fdcf"
   onCallSupport:
     - (453) 392-23
